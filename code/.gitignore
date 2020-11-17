@@ -1,0 +1,12 @@
+.vscode/**
+.vs/**
+
+*.elf
+*.pdb
+*.obj
+*.ilk
+*.exe
+*.out
+*.o
+*.obj
+*.bin
